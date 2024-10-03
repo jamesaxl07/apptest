@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+h1, h2 {
+    color: blue ;
+}
+ul, ol {
+    padding-left: 20px;
+}
+.ingredients, .instructions {
+    margin-bottom: 20px;
+}
